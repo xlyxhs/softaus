@@ -1,5 +1,3 @@
-# softaus
-soft aus generator made by jjaenight
 <!DOCTYPE html>
 
 <html>
